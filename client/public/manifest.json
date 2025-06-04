@@ -1,0 +1,21 @@
+{
+  "short_name": "PWA App",
+  "name": "React PWA with Push Notifications",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1976d2",
+  "background_color": "#ffffff",
+  "gcm_sender_id": "YOUR_MESSAGING_SENDER_ID"
+} 
